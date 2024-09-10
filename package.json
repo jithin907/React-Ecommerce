@@ -27,7 +27,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build -b gh-pages"
   },
-  "homepage": "https://github.com/jithin907/React-Ecommerce.git",
+  "homepage": "https://jithin907.github.io/React-Ecommerce",
 
   "eslintConfig": {
     "extends": [
